@@ -40,6 +40,15 @@
     11. Armado de equipo.
 
     ```
+    
+* Procedimiento generacion archivo output.txt:
+    ```
+    1. Buildeamos el archivo hello.c
+    2. Se genera un ejecutable hello
+    3. Ejecutamos el programa hello referenciando la salida hacia el archivo output.txt de la siguiente manera:
+        ./hello > output.txt
+
+    ```
 
 
 
